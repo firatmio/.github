@@ -22,16 +22,6 @@
 
 ---
 
-### 🔭 Projects I'm Currently Working On
-
-| Project | Description |
-|---------|------------|
-| 🧠 **DeepDev** | AI-powered professional code editor that understands what your code does |
-| 📂 **SmartPDF** | Tool that analyzes and summarizes PDF files using AI |
-| 💬 **Wobble** | Discord alternative, real-time, simple, and fast messaging application |
-
----
-
 ### 🎯 Focus Areas
 
 - 🤖 AI-powered systems (NLP, LLM, data analysis)
