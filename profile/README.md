@@ -69,15 +69,6 @@ My focus is on turning complex problems into **clean, performant, and resilient 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=firatmio&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
----
-
-## 🔥 Engineering Consistency
-
-<div align="center">
-
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=firatmio&theme=dracula" alt="GitHub Streak" /></a>
-
-</div>
 
 ---
 
