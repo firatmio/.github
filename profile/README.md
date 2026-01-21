@@ -55,15 +55,6 @@ My focus is on turning complex problems into **clean, performant, and resilient 
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=firatmio&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=6" />
-
-</div>
-
----
 
 ## 📈 Contribution & Activity Monitoring
 
