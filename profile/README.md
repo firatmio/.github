@@ -66,7 +66,7 @@ My focus is on turning complex problems into **clean, performant, and resilient 
 ## 📬 Contact
 
 - 📧 Email: [firattunaarslan@gmail.com](mailto:firattunaarslan@gmail.com)
-- 🌐 Website: [firatmio.github.io](https://firatmio.github.io)
+- 🌐 Website: [firatmio.github.io](https://firattunaarslan.me/)
 
 ---
 
