@@ -1,48 +1,87 @@
-<h1 align="center">Selam, ben Fırat 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Hi,+I'm+Fırat+👋;AI+Engineer+%7C+Full-Stack+Developer;Building+Production-Grade+Systems" />
+</p>
 
 <p align="center">
-  Yapay Zeka Mühendisliği öğrencisiyim, 8 yıldır yazılım yazıyorum.  
-  Arayüzden backend’e, yapay zekadan donanıma kadar her yere parmak atarım 😎  
+  <i>AI Engineering student • 8+ years software developer • Full-stack engineer from UX to AI • Production-minded systems builder</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,next,electron,rust,go,fastapi,django,firebase,mysql,postgresql,mongodb,git&perline=8" />
 </p>
 
 ---
 
-### 💻 Hakkımda Kısaca
+## 🧠 About Me
 
-- 🧠 Yapay zeka, yazılım geliştirme ve sistem tasarımı benim işim.
-- 🔧 Electron.js, React, Firebase, Python ve JavaScript gibi teknolojilerle içli dışlıyım.
-- 🚀 Şu an hem masaüstü uygulamalar hem de web platformları geliştiriyorum.
-- 🧪 Proje odaklı çalışırım, sadece kod yazmam — fikir üretir, sistemi kurar, test ederim.
+I’m an **AI Engineering** student with **8+ years of hands-on software development experience**, building production-grade systems across web, desktop, and AI platforms.
 
----
+I don’t just write features — I design **scalable architectures**, care about **system observability**, and ship products that are reliable, maintainable, and measurable in real-world usage.
 
-### 🎯 Odak Noktalarım
-
-- AI destekli sistemler
-- Gerçek zamanlı iş birliği platformları
-- Masaüstü/Web hibrit uygulamalar
-- Eğitim teknolojileri ve kullanıcı deneyimi
+My focus is on turning complex problems into **clean, performant, and resilient systems**.
 
 ---
 
-### 🛠️ Kullandığım Araçlar & Diller
+## 🎯 Core Focus
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Electron.js](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
-
----
-
-### 💬 Benimle İletişime Geç
-
-- 📫 Mail: firattunaarslan@gmail.com
-- 🧠 Aktif projelerim ve detaylar için yakında portföy sitem yayında olacak!
+- 🤖 AI-powered applications (LLMs, NLP, data pipelines)
+- 🧩 Real-time systems & collaborative platforms
+- 🖥️ Desktop/web hybrid applications (Electron, Tauri)
+- 📈 Observability-driven development (monitoring, logging, metrics)
+- 🧑‍🏫 Developer tooling & UX-first system design
 
 ---
 
-> “Kodu sadece yazmam, yaşatırım.”  
-> — Fırat
+## 🛠 Engineering Principles
 
+- Production-first mindset
+- Strong focus on system reliability & performance
+- Measurable systems: metrics > assumptions
+- Clean architecture, testable code, long-term maintainability
+
+---
+
+## 📊 Live Engineering Signals
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=firatmio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatmio&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+
+## 📈 Contribution & Activity Monitoring
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=firatmio&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [firattunaarslan@gmail.com](mailto:firattunaarslan@gmail.com)
+- 🌐 Website: [firattunaarslan.me](https://firattunaarslan.me/)
+
+---
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=firatmio&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+
+  <br/>
+
+  <i>“I build systems that scale, survive, and stay observable.”</i>  
+  <br/>
+  — <strong>Fırat Tuna Arslan</strong>
+
+  <br/>
+
+  [![GitHub followers](https://img.shields.io/github/followers/firatmio?style=social)](https://github.com/firatmio)
+
+</div>
