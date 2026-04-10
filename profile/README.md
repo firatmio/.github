@@ -58,7 +58,7 @@ My focus is on turning complex problems into **clean, performant, and resilient 
 
 ## Contribution & Activity Monitoring
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=firatmio&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=firatmio&theme=dark&bg_color=1a1a1e&color=70a5fd&line=4f61c2&point=3c58e8&area=true&hide_border=true"/>
 
 
 ---
