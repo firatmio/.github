@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m an **AI Engineering** student with **8+ years of hands-on software development experience**, building production-grade systems across web, desktop, and AI platforms.
 
@@ -24,17 +24,17 @@ My focus is on turning complex problems into **clean, performant, and resilient 
 
 ---
 
-## 🎯 Core Focus
+## Core Focus
 
-- 🤖 AI-powered applications (LLMs, NLP, data pipelines)
-- 🧩 Real-time systems & collaborative platforms
-- 🖥️ Desktop/web hybrid applications (Electron, Tauri)
-- 📈 Observability-driven development (monitoring, logging, metrics)
-- 🧑‍🏫 Developer tooling & UX-first system design
+- AI-powered applications (LLMs, NLP, data pipelines)
+- Real-time systems & collaborative platforms
+- Desktop/web hybrid applications (Electron, Tauri)
+- Observability-driven development (monitoring, logging, metrics)
+- Developer tooling & UX-first system design
 
 ---
 
-## 🛠 Engineering Principles
+## Engineering Principles
 
 - Production-first mindset
 - Strong focus on system reliability & performance
@@ -43,7 +43,7 @@ My focus is on turning complex problems into **clean, performant, and resilient 
 
 ---
 
-## 📊 Live Engineering Signals
+## Live Engineering Signals
 
 <div align="center">
 
@@ -56,17 +56,17 @@ My focus is on turning complex problems into **clean, performant, and resilient 
 ---
 
 
-## 📈 Contribution & Activity Monitoring
+## Contribution & Activity Monitoring
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=firatmio&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 
 ---
 
-## 📬 Contact
+## Contact
 
-- 📧 Email: [firattunaarslan@gmail.com](mailto:firattunaarslan@gmail.com)
-- 🌐 Website: [firattunaarslan.me](https://firattunaarslan.me/)
+- Email: [firattunaarslan@gmail.com](mailto:firattunaarslan@gmail.com)
+- Website: [firattunaarslan.me](https://firattunaarslan.me/)
 
 ---
 
@@ -75,6 +75,8 @@ My focus is on turning complex problems into **clean, performant, and resilient 
   <img src="https://komarev.com/ghpvc/?username=firatmio&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
   <br/>
+  <br/>
+  
 
   [![GitHub followers](https://img.shields.io/github/followers/firatmio?style=social)](https://github.com/firatmio)
 
