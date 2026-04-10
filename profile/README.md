@@ -76,12 +76,6 @@ My focus is on turning complex problems into **clean, performant, and resilient 
 
   <br/>
 
-  <i>“I build systems that scale, survive, and stay observable.”</i>  
-  <br/>
-  — <strong>Fırat Tuna Arslan</strong>
-
-  <br/>
-
   [![GitHub followers](https://img.shields.io/github/followers/firatmio?style=social)](https://github.com/firatmio)
 
 </div>
