@@ -27,7 +27,7 @@ My focus is on turning complex problems into **clean, performant, and resilient 
 ## Contact
 
 - Email: [firattunaarslan@gmail.com](mailto:firattunaarslan@gmail.com)
-- Website: [firattunaarslan.me](https://firattunaarslan.me/)
+- Portfolio: [firattunaarslan.me](https://firattunaarslan.me/)
 
 ---
 
