@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,next,electron,rust,go,fastapi,django,firebase,mysql,postgresql,mongodb,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,bun,react,next,electron,tauri,rust,go,fastapi,firebase,supabase,mongodb,postgresql&perline=8" />
 </p>
 
 ---
