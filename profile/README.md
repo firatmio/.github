@@ -24,45 +24,6 @@ My focus is on turning complex problems into **clean, performant, and resilient 
 
 ---
 
-## Core Focus
-
-- AI-powered applications (LLMs, NLP, data pipelines)
-- Real-time systems & collaborative platforms
-- Desktop/web hybrid applications (Electron, Tauri)
-- Observability-driven development (monitoring, logging, metrics)
-- Developer tooling & UX-first system design
-
----
-
-## Engineering Principles
-
-- Production-first mindset
-- Strong focus on system reliability & performance
-- Measurable systems: metrics > assumptions
-- Clean architecture, testable code, long-term maintainability
-
----
-
-## Live Engineering Signals
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=firatmio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatmio&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-
-## Contribution & Activity Monitoring
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=firatmio&theme=dark&bg_color=1a1a1e&color=70a5fd&line=4f61c2&point=3c58e8&area=true&hide_border=true"/>
-
-
----
-
 ## Contact
 
 - Email: [firattunaarslan@gmail.com](mailto:firattunaarslan@gmail.com)
