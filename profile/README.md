@@ -1,44 +1,39 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Hi,+I'm+Fırat+👋;AI+Engineer+Student;Full-Stack+Web+Developer;Building+Production-Grade+Systems" />
-</p>
-
-<p align="center">
-  <i>AI Engineering student • 8+ years software developer • Full-stack engineer from UX to AI • Production-minded systems builder</i>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,bun,react,next,electron,tauri,rust,go,fastapi,firebase,supabase,mongodb,postgresql&perline=8" />
-</p>
+# Hello World, I'm Fırat Tuna Arslan
 
 ---
 
-## About Me
+### About Me
 
-I’m an **AI Engineering** student with **8+ years of hands-on software development experience**, building production-grade systems across web, desktop, and AI platforms.
-
-I don’t just write features — I design **scalable architectures**, care about **system observability**, and ship products that are reliable, maintainable, and measurable in real-world usage.
-
-My focus is on turning complex problems into **clean, performant, and resilient systems**.
-
----
-
-## Contact
-
-- Email: [firattunaarslan@gmail.com](mailto:firattunaarslan@gmail.com)
-- Portfolio: [firattunaarslan.me](https://firattunaarslan.me/)
+- **Software Developer** since 2017, currently deep in the trenches of AI, Web, and Systems programming.
+- Software developer at **[Quacomes](https://quacomes.com)** – brewing next-gen software solutions.
+- Studying **Artificial Intelligence Engineering** (making machines do my homework).
+- UI/UX minimalist: If it doesn't look like an absolute premium dark-mode workspace, I don't want it.
 
 ---
 
-<div align="center">
+### Tech Stack & Weapons of Choice
 
-  <img src="https://komarev.com/ghpvc/?username=firatmio&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Go`, `Rust`, `Python`, `TypeScript`, `JavaScript` |
+| **Frontend** | `SolidJS`, `React`, `Next.js`, `Tailwind v4`, `Vite`, `Bun` |
+| **Backend & AI** | `Go (Fiber/Gin)`, `Rust (Axum)`, `PyTorch`, `Scikit-Learn`, `FastAPI` |
+| **Database & Cloud** | `PostgreSQL`, `Firebase`, `Supabase`, `Docker` |
+| **Desktop Apps** | `Tauri` (because Electron is a RAM vampire) |
 
-  <br/>
-  <br/>
-  
+---
 
-  [![GitHub followers](https://img.shields.io/github/followers/firatmio?style=social)](https://github.com/firatmio)
+### Current Status & Projects
 
-</div>
+- Currently architecting the **Quacomes** ecosystem..
+- Last developt one is Quacomes Mail.
+- Developed **CardioGuard** – AI-powered cardiac monitoring.
+
+---
+
+### Connect with Me
+
+- **Email:** [firattunaarslan@gmail.com](mailto:firattunaarslan@gmail.com)
+- **Portfolio:** [firattunaarslan.me](https://firattunaarslan.me/)
+- **Company:** [quacomes.com](https://quacomes.com)
+- **GitLab:** [gitlab.com/firatmio](https://gitlab.com/firatmio)
