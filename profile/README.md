@@ -14,19 +14,11 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `Go`, `Rust`, `Python`, `TypeScript`, `JavaScript` |
-| **Frontend** | `SolidJS`, `React`, `Next.js`, `Tailwind v4`, `Vite`, `Bun` |
-| **Backend & AI** | `Go (Fiber/Gin)`, `Rust (Axum)`, `PyTorch`, `Scikit-Learn`, `FastAPI` |
-| **Database & Cloud** | `PostgreSQL`, `Firebase`, `Supabase`, `Docker` |
+| **Languages** | `Go`, `Rust`, `Python`, `TypeScript (also JS)` |
+| **Frontend** | `SolidJS`, `React`, `Next.js` |
+| **Backend** | `Go`, `Rust`, `FastAPI` |
+| **Database & Cloud** | `Firebase`, `Supabase`, `Docker` |
 | **Desktop Apps** | `Tauri` (because Electron is a RAM vampire) |
-
----
-
-### Current Status & Projects
-
-- Currently architecting the **Quacomes** ecosystem..
-- Last developt one is Quacomes Mail.
-- Developed **CardioGuard** – AI-powered cardiac monitoring.
 
 ---
 
