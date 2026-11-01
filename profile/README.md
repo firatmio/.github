@@ -1,4 +1,4 @@
-# Hello World, I'm Fırat Tuna Arslan
+# Hello World, I'm Fırat
 
 ---
 
