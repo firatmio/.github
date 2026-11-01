@@ -5,7 +5,6 @@
 ### About Me
 
 - **Software Developer** since 2017, currently deep in the trenches of AI, Web, and Systems programming.
-- Software developer at **[Quacomes](https://quacomes.com)** – brewing next-gen software solutions.
 - Studying **Artificial Intelligence Engineering** (making machines do my homework).
 - UI/UX minimalist: If it doesn't look like an absolute premium dark-mode workspace, I don't want it.
 
