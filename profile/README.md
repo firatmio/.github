@@ -26,7 +26,6 @@
 
 - **Email:** [firattunaarslan@gmail.com](mailto:firattunaarslan@gmail.com)
 - **Portfolio:** [firattunaarslan.me](https://firattunaarslan.me/)
-- **Company:** [quacomes.com](https://quacomes.com)
 - **GitLab:** [gitlab.com/firatmio](https://gitlab.com/firatmio)
 - **HugginFace:** [https://huggingface.co/firatmio](https://huggingface.co/firatmio)
 - **NPM:** [https://www.npmjs.com/~firatmio](https://www.npmjs.com/~firatmio)
